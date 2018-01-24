@@ -10,6 +10,13 @@ HEAD
  单元格内容  | 单元格内容
  单元格内容l  | 单元格内容
 
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+
  代码块高亮
 ```ruby
   def add(a, b)
